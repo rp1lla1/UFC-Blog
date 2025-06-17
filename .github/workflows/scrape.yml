@@ -1,0 +1,33 @@
+name: Weekly UFC Scraper
+
+on:
+  schedule:
+    - cron: "0 11 * * 0" # Every Sunday at 11 AM UTC
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install Puppeteer
+        run: npm install puppeteer
+
+      - name: Run scraper
+        run: node scrape.js
+
+      - name: Commit updated fights.json
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add fights.json
+          git commit -m "🤖 Update fight card" || echo "No changes to commit"
+          git push

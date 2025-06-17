@@ -1,0 +1,215 @@
+/* Global Typography & Spacing */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+a {
+  color: #e10600;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #f7f7f7;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  letter-spacing: 0.2px;
+}
+
+header {
+  background: #111;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: #e10600;
+}
+
+main {
+  padding: 2rem;
+}
+
+/* Accent Color + Footer */
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+section {
+  margin-top: 2rem;
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+}
+
+/* Fight Card Table Styling */
+#fight-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+#fight-section th,
+#fight-section td {
+  padding: 0.75rem 1rem;
+  text-align: center;
+  border: 1px solid #ddd;
+  font-size: 0.95rem;
+}
+
+#fight-section thead {
+  background-color: #111;
+  color: white;
+}
+
+#fight-section tbody tr:hover {
+  background-color: #f3f3f3;
+}
+
+#fight-section td.favorite {
+  font-weight: 600;
+  color: #e10600;
+}
+
+/* Picks Table */
+#picks-table th,
+#picks-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border: 1px solid #ccc;
+  font-size: 0.95rem;
+}
+
+#picks-table thead {
+  background-color: #111;
+  color: white;
+}
+
+/* Layout Utilities */
+#picks-flex {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+#picks-chart {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+}
+
+
+/* About Section */
+#about-flex {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+#about-box {
+  width: 100%;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+  font-size: 1rem;
+}
+
+/* Latest Articles */
+#latest-articles {
+  flex: 1;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+#latest-articles h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+/* Article Cards */
+#article-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.article-card {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.article-card:hover {
+  transform: translateY(-4px);
+}
+
+.article-card h3 {
+  font-size: 1rem;
+  margin: 0;
+  color: #111;
+}
+
+/* General Lists */
+ul#article-list {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+  font-size: 0.95rem;
+}
+
+/* Small Styling */
+.strike-small {
+  text-decoration: line-through;
+  font-size: 0.5em;
+  vertical-align: middle;
+  opacity: 0.6;
+}
+
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+/* Make sure both sections stretch properly */
+#picks-container, #latest-articles {
+  width: 100%;
+}

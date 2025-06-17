@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>All Articles – Blog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Tapped Out(In): Roshan Pillai's UFC Blog</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="articles.html">All Articles</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>All Articles</h2>
+    <div id="article-grid"></div>
+  </main>
+
+  <script>
+    fetch("http://localhost:3000/articles-list")
+      .then(res => res.json())
+      .then(articles => {
+        const grid = document.getElementById("article-grid");
+        articles.forEach(article => {
+          const card = document.createElement("div");
+          card.className = "article-card";
+
+          card.innerHTML = `
+            <a href="${article.link}">
+              <h3>${article.title}</h3>
+            </a>
+          `;
+          grid.appendChild(card);
+        });
+      })
+      .catch(err => console.error("Failed to load articles:", err));
+  </script>
+</body>
+</html>

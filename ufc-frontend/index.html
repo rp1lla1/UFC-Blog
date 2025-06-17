@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Tapped <span class="strike-small">Out</span> In: Roshan's UFC Blog</h1>
+    
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="articles.html">All Articles</a>
+    </nav>
+  </header>
+
+  <main>
+  <section id="about-box">
+    <p>Hello, I am a fan of MMA, specifically the UFC and have been for a little over a year (since UFC 292). I'm building this blog both as a project to throw on the resume and as a space to share my thoughts on the sport (friends and family rejoice, your ears will no longer suffer the yap).</p>
+    <p>In this blog you can expect all words to be my own (not AI), spelling errors, and unbiased UFC takes (except when it pertains to my goat Charles Olivera).</p>
+    <p>I'll try to post once a month, ideally twice. If you ever need to reach out: <strong>roshan2pillai@gmail.com</strong>.</p>
+  </section>
+
+  <section id="fight-section">
+    <h2 id="fight-title">Upcoming Fight Card</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Fighter 1</th>
+          <th>Odds</th>
+          <th>Weight Class</th>
+          <th>Fighter 2</th>
+          <th>Odds</th>
+        </tr>
+      </thead>
+      <tbody id="fight-body"></tbody>
+    </table>
+  </section>
+
+  <section id="picks-section">
+    <h2>Roshan's Recent Main Event Picks</h2>
+    <div id="picks-flex">
+      <div>
+        <p id="picks-stats">Loading...</p>
+        <table id="picks-table"></table>
+      </div>
+      <canvas id="picks-chart" width="180" height="180"></canvas>
+      <div id="latest-articles">
+        <h2>Latest Articles</h2>
+        <ul id="article-list"></ul>
+      </div>
+    </div>
+  </section>
+</main>
+
+
+  <footer>
+
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

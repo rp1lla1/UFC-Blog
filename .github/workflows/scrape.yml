@@ -2,7 +2,7 @@ name: Weekly UFC Scraper
 
 on:
   schedule:
-    - cron: "0 11 * * 0" # Every Sunday at 11 AM UTC
+    - cron: "0 11 * * 0" # every Sunday 11 AM UTC
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # full history so rebase works
 
       - name: Set up Node
         uses: actions/setup-node@v3
@@ -27,10 +29,18 @@ jobs:
       - name: Run scraper
         run: node scrape.js
 
-      - name: Commit updated fights.json
+      - name: Commit and push fights.json
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add fights.json
-          git commit -m "🤖 Update fight card" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "🤖 Update fight card"
+
+          git pull --rebase --autostash origin main   # keep in sync
+          git push origin HEAD:main

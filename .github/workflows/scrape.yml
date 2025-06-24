@@ -29,6 +29,9 @@ jobs:
       - name: Run scraper
         run: node scrape.js
 
+      - name: Generate articles.json
+        run: node generate-articles.js
+
       - name: Commit and push updated fights.json
         run: |
           git config --global user.name "github-actions[bot]"

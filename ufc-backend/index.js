@@ -86,25 +86,20 @@ cron.schedule("0 7 * * 0", () => {
   scrapeAndSaveFights();
 });
 
-const path = require("path");
-
-app.use(express.static("../ufc-frontend"));
-
-app.get("/articles-list", (req, res) => {
-  const dir = path.join(__dirname, "../ufc-frontend/articles");
-  fs.readdir(dir, (err, files) => {
-    if (err) return res.status(500).json({ error: "Failed to read articles folder" });
-
-    const articles = files
-      .filter(file => file.endsWith(".html"))
-      .map(file => ({
-        title: file.replace(".html", "").replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase()),
-        link: `articles/${file}`
-      }));
-
-    res.json(articles);
+fetch("articles.json")
+  .then(res => res.json())
+  .then(articles => {
+    const list = document.getElementById("article-list");
+    articles.forEach(article => {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = article.link;
+      a.textContent = article.title;
+      li.appendChild(a);
+      list.appendChild(li);
+    });
   });
-});
+
 
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);

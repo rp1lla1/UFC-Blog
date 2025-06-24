@@ -33,6 +33,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add fights.json
           git diff --staged --quiet || (git commit -m "🤖 chore: Update fight card" && git push)

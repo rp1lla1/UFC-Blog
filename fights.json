@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 317",
   "fights": [
     {
-      "fighter1": "Jamahal Hill (4)",
-      "fighter2": "Khalil Rountree Jr. (7)",
-      "weightClass": "Light Heavyweight Bout",
-      "odds1": "+130",
-      "odds2": "-155"
-    },
-    {
-      "fighter1": "Rafael Fiziev (11)",
-      "fighter2": "Ignacio Bahamondes",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Ilia Topuria (3)",
+      "fighter2": "Charles Oliveira (2)",
+      "weightClass": "Lightweight Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Curtis Blaydes (5)",
-      "fighter2": "Rizvan Kuniev",
-      "weightClass": "Heavyweight Bout",
+      "fighter1": "Alexandre Pantoja (4)",
+      "fighter2": "Kai Kara-france",
+      "weightClass": "C Flyweight Title Bout",
       "odds1": "-265",
       "odds2": "+215"
+    },
+    {
+      "fighter1": "Beneil Dariush (9)",
+      "fighter2": "Renato Moicano (10)",
+      "weightClass": "Lightweight Bout",
+      "odds1": "+136",
+      "odds2": "-162"
     }
   ]
 }

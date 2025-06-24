@@ -1,5 +1,5 @@
 // Load articles dynamically from backend
-fetch("http://localhost:3000/articles-list")
+fetch("articles.json")
   .then(res => res.json())
   .then(articles => {
     const list = document.getElementById("article-list");

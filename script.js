@@ -19,7 +19,7 @@ fetch("http://localhost:3000/articles-list")
   .catch(err => console.error("Failed to load articles:", err));
 
 // Load fight card from backend
-fetch("http://localhost:3000/fights")
+fetch("fights.json")
   .then(res => res.json())
   .then(data => {
     const { eventName, fights } = data;

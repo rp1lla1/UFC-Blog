@@ -1,5 +1,17 @@
-/* Global Typography & Spacing */
+/* Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+/* Global Styles */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: white;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  letter-spacing: 0.2px;
+}
+
 a {
   color: #e10600;
   text-decoration: none;
@@ -10,16 +22,7 @@ a:hover {
   text-decoration: underline;
 }
 
-body {
-  font-family: 'Inter', sans-serif;
-  background: #f7f7f7;
-  color: #111;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-  letter-spacing: 0.2px;
-}
-
+/* Header */
 header {
   background: #111;
   color: #fff;
@@ -43,11 +46,12 @@ nav a:hover {
   color: #e10600;
 }
 
+/* Main Content Wrapper */
 main {
   padding: 2rem;
 }
 
-/* Accent Color + Footer */
+/* Footer */
 footer {
   background: #222;
   color: white;
@@ -56,6 +60,7 @@ footer {
   margin-top: 2rem;
 }
 
+/* Section Containers */
 section {
   margin-top: 2rem;
   background: white;
@@ -64,7 +69,7 @@ section {
   box-shadow: 0 4px 8px rgba(0,0,0,0.08);
 }
 
-/* Fight Card Table Styling */
+/* Fight Card Table */
 #fight-section table {
   width: 100%;
   border-collapse: collapse;
@@ -111,23 +116,8 @@ section {
   color: white;
 }
 
-/* Layout Utilities */
-#picks-flex {
-  display: flex;
-  gap: 2rem;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  margin-top: 1rem;
-}
-
-#picks-chart {
-  max-width: 100%;
-  height: auto;
-  margin-top: 1rem;
-}
-
-
-/* About Section */
+/* Flex Containers */
+#picks-flex,
 #about-flex {
   display: flex;
   gap: 2rem;
@@ -136,16 +126,12 @@ section {
   margin-top: 1rem;
 }
 
-#about-box {
+/* Picks/Articles Containers */
+#picks-container,
+#latest-articles {
   width: 100%;
-  background: #fff;
-  padding: 1.5rem;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
-  font-size: 1rem;
 }
 
-/* Latest Articles */
 #latest-articles {
   flex: 1;
   background: #fff;
@@ -186,14 +172,24 @@ section {
   color: #111;
 }
 
-/* General Lists */
+/* About Box */
+#about-box {
+  width: 100%;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+  font-size: 1rem;
+}
+
+/* Article List */
 ul#article-list {
   list-style-type: disc;
   margin-left: 1.5rem;
   font-size: 0.95rem;
 }
 
-/* Small Styling */
+/* Strike-through Text */
 .strike-small {
   text-decoration: line-through;
   font-size: 0.5em;
@@ -201,7 +197,7 @@ ul#article-list {
   opacity: 0.6;
 }
 
-
+/* Grid Layout Utility */
 .grid-2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -209,7 +205,62 @@ ul#article-list {
   align-items: start;
 }
 
-/* Make sure both sections stretch properly */
-#picks-container, #latest-articles {
+/* ------------------------------------ */
+/* BLOG ARTICLE STYLING (FightCardsHQ) */
+/* ------------------------------------ */
+
+.blog-article {
+  max-width: 720px;
+  margin: 3rem auto;
+  padding: 0 1.5rem;
+  font-family: 'Inter', sans-serif;
+  background: #fff;
+}
+
+.blog-article h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.blog-article .post-meta {
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 2rem;
+}
+
+.blog-article p {
+  font-size: 1.05rem;
+  margin-bottom: 1.4rem;
+  color: #222;
+}
+
+.blog-article .hero-img {
   width: 100%;
+  height: auto;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.blog-article ol {
+  padding-left: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.blog-article li {
+  margin-bottom: 1.2rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.blog-article strong {
+  font-weight: 600;
+  color: #000;
+}
+
+.tags {
+  font-style: italic;
+  color: #777;
+  margin-top: 2rem;
 }

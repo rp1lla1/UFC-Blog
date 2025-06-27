@@ -24,21 +24,22 @@
 
   <script>
   fetch("articles.json")
-    .then(res => res.json())
-    .then(articles => {
-      const grid = document.getElementById("article-grid");
-      articles.forEach(article => {
-        const card = document.createElement("div");
-        card.className = "article-card";
-        card.innerHTML = `
-          <a href="${article.link}">
-            <h3>${article.title}</h3>
-          </a>
-        `;
-        grid.appendChild(card);
-      });
-    })
-    .catch(err => console.error("Failed to load articles:", err));
+  .then(res => res.json())
+  .then(articles => {
+    const grid = document.getElementById("article-grid");
+    articles.reverse().forEach(article => {
+      const card = document.createElement("div");
+      card.className = "article-card";
+      card.innerHTML = `
+        <a href="${article.link}">
+          <h3>${article.title}</h3>
+        </a>
+      `;
+      grid.appendChild(card);
+    });
+  })
+  .catch(err => console.error("Failed to load articles:", err));
+
 </script>
 
     

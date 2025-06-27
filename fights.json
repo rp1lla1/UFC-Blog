@@ -2,25 +2,25 @@
   "eventName": "UFC 317",
   "fights": [
     {
-      "fighter1": "Ilia Topuria (3)",
-      "fighter2": "Charles Oliveira (2)",
+      "fighter1": "Ilia Topuria (2)",
+      "fighter2": "Charles Oliveira",
       "weightClass": "Lightweight Title Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "odds1": "-440",
+      "odds2": "+340"
     },
     {
       "fighter1": "Alexandre Pantoja (4)",
       "fighter2": "Kai Kara-france",
       "weightClass": "C Flyweight Title Bout",
-      "odds1": "-265",
-      "odds2": "+215"
+      "odds1": "-238",
+      "odds2": "+195"
     },
     {
-      "fighter1": "Beneil Dariush (9)",
-      "fighter2": "Renato Moicano (11)",
-      "weightClass": "Lightweight Bout",
-      "odds1": "+136",
-      "odds2": "-162"
+      "fighter1": "Brandon Royval (1)",
+      "fighter2": "Joshua Van (12)",
+      "weightClass": "Flyweight Bout",
+      "odds1": "-102",
+      "odds2": "-118"
     }
   ]
 }

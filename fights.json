@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC 317",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Ilia Topuria (2)",
-      "fighter2": "Charles Oliveira",
-      "weightClass": "Lightweight Title Bout",
-      "odds1": "-440",
-      "odds2": "+340"
+      "fighter1": "Derrick Lewis (9)",
+      "fighter2": "Tallison Teixeira (13)",
+      "weightClass": "Heavyweight Bout",
+      "odds1": "-",
+      "odds2": "-"
     },
     {
-      "fighter1": "Alexandre Pantoja (4)",
-      "fighter2": "Kai Kara-france",
-      "weightClass": "C Flyweight Title Bout",
-      "odds1": "-238",
-      "odds2": "+195"
+      "fighter1": "Stephen Thompson (12)",
+      "fighter2": "Gabriel Bonfim",
+      "weightClass": "Welterweight Bout",
+      "odds1": "-",
+      "odds2": "-"
     },
     {
-      "fighter1": "Brandon Royval (1)",
-      "fighter2": "Joshua Van (12)",
-      "weightClass": "Flyweight Bout",
-      "odds1": "-102",
-      "odds2": "-118"
+      "fighter1": "Calvin Kattar (15)",
+      "fighter2": "Steve Garcia",
+      "weightClass": "Featherweight Bout",
+      "odds1": "-",
+      "odds2": "-"
     }
   ]
 }

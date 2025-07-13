@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 318",
   "fights": [
     {
-      "fighter1": "Derrick Lewis (9)",
-      "fighter2": "Tallison Teixeira (13)",
-      "weightClass": "Heavyweight Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "fighter1": "Max Holloway (5)",
+      "fighter2": "Dustin Poirier (6)",
+      "weightClass": "Lightweight Bout",
+      "odds1": "-118",
+      "odds2": "-102"
     },
     {
-      "fighter1": "Stephen Thompson (12)",
-      "fighter2": "Gabriel Bonfim",
+      "fighter1": "Paulo Costa (13)",
+      "fighter2": "Roman Kopylov (14)",
+      "weightClass": "Middleweight Bout",
+      "odds1": "+200",
+      "odds2": "-245"
+    },
+    {
+      "fighter1": "Kevin Holland (14)",
+      "fighter2": "Daniel Rodriguez",
       "weightClass": "Welterweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Calvin Kattar (14)",
-      "fighter2": "Steve Garcia",
-      "weightClass": "Featherweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

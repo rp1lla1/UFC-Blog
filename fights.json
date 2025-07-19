@@ -2,9 +2,9 @@
   "eventName": "UFC 318",
   "fights": [
     {
-      "fighter1": "Max Holloway (5)",
-      "fighter2": "Dustin Poirier (6)",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Max Holloway (6)",
+      "fighter2": "Dustin Poirier",
+      "weightClass": "C Lightweight Bout",
       "odds1": "-118",
       "odds2": "-102"
     },
@@ -16,7 +16,7 @@
       "odds2": "-245"
     },
     {
-      "fighter1": "Kevin Holland (14)",
+      "fighter1": "Kevin Holland (13)",
       "fighter2": "Daniel Rodriguez",
       "weightClass": "Welterweight Bout",
       "odds1": "-",

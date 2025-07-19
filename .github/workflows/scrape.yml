@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # Ensures full history is fetched, important for rebase
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -32,9 +32,20 @@ jobs:
       - name: Generate articles.json
         run: node generate-articles.js
 
-      - name: Commit and push updated files
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # *** ADD THIS NEW STEP HERE ***
+      - name: Pull latest changes before commit
+        run: git pull --rebase origin main
+        # This command fetches any new commits from the remote 'main' branch
+        # and reapplies your local changes (from scraper/generator) on top of them.
+        # This resolves potential conflicts and allows for a clean push.
+
+      - name: Commit and push updated files
+        run: |
           git add fights.json articles.json
+          # The 'git diff --staged --quiet ||' part ensures commit/push only happens if there are actual changes
           git diff --staged --quiet || (git commit -m "🤖 chore: Update fight card and articles" && git push)

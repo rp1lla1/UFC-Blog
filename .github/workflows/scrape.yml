@@ -3,7 +3,7 @@ name: Weekly UFC Scraper
 on:
   schedule:
     - cron: "0 11 * * 0" # Every Sunday at 11 AM UTC
-  workflow_dispatch: # Allow manual runs
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Ensures full history is fetched, important for rebase
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -26,26 +26,21 @@ jobs:
       - name: Install Puppeteer
         run: npm install puppeteer
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Pull latest changes before running scripts
+        run: git pull --rebase origin main
+
       - name: Run scraper
         run: node scrape.js
 
       - name: Generate articles.json
         run: node generate-articles.js
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      # *** ADD THIS NEW STEP HERE ***
-      - name: Pull latest changes before commit
-        run: git pull --rebase origin main
-        # This command fetches any new commits from the remote 'main' branch
-        # and reapplies your local changes (from scraper/generator) on top of them.
-        # This resolves potential conflicts and allows for a clean push.
-
       - name: Commit and push updated files
         run: |
           git add fights.json articles.json
-          # The 'git diff --staged --quiet ||' part ensures commit/push only happens if there are actual changes
           git diff --staged --quiet || (git commit -m "🤖 chore: Update fight card and articles" && git push)

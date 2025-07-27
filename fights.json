@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC 318",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Max Holloway (6)",
-      "fighter2": "Dustin Poirier",
-      "weightClass": "C Lightweight Bout",
-      "odds1": "-118",
-      "odds2": "-102"
+      "fighter1": "Amir Albazi (4)",
+      "fighter2": "Tatsuro Taira (6)",
+      "weightClass": "Flyweight Bout",
+      "odds1": "-",
+      "odds2": "-"
     },
     {
-      "fighter1": "Paulo Costa (13)",
-      "fighter2": "Roman Kopylov (14)",
-      "weightClass": "Middleweight Bout",
-      "odds1": "+200",
-      "odds2": "-245"
+      "fighter1": "Mateusz Rębecki",
+      "fighter2": "Chris Duncan",
+      "weightClass": "Lightweight Bout",
+      "odds1": "-",
+      "odds2": "-"
     },
     {
-      "fighter1": "Kevin Holland (13)",
-      "fighter2": "Daniel Rodriguez",
-      "weightClass": "Welterweight Bout",
+      "fighter1": "Elves Brener",
+      "fighter2": "Esteban Ribovics",
+      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

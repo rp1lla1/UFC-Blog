@@ -2,23 +2,23 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Amir Albazi (4)",
-      "fighter2": "Tatsuro Taira (6)",
-      "weightClass": "Flyweight Bout",
+      "fighter1": "Roman Dolidze (9)",
+      "fighter2": "Anthony Hernandez (10)",
+      "weightClass": "Middleweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Mateusz Rębecki",
-      "fighter2": "Chris Duncan",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Alex Perez (8)",
+      "fighter2": "Steve Erceg (10)",
+      "weightClass": "Bantamweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Elves Brener",
-      "fighter2": "Esteban Ribovics",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Iasmin Lucindo (8)",
+      "fighter2": "Angela Hill (12)",
+      "weightClass": "Women's Strawweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

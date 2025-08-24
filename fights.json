@@ -2,23 +2,23 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Johnny Walker (13)",
-      "fighter2": "Zhang Mingyang (14)",
-      "weightClass": "Light Heavyweight Bout",
+      "fighter1": "Nassourdine Imavov (2)",
+      "fighter2": "Caio Borralho (7)",
+      "weightClass": "Middleweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Brian Ortega (4)",
-      "fighter2": "Aljamain Sterling (7)",
-      "weightClass": "Featherweight Bout",
+      "fighter1": "Benoît Saint Denis (13)",
+      "fighter2": "Mauricio Ruffy (15)",
+      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Sergei Pavlovich (3)",
-      "fighter2": "Waldo Cortes Acosta (6)",
-      "weightClass": "Heavyweight Bout",
+      "fighter1": "Bolaji Oki",
+      "fighter2": "Mason Jones",
+      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

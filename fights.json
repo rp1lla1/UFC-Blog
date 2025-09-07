@@ -1,23 +1,23 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "NOCHE UFC",
   "fights": [
     {
-      "fighter1": "Nassourdine Imavov (2)",
-      "fighter2": "Caio Borralho (7)",
-      "weightClass": "Middleweight Bout",
+      "fighter1": "Diego Lopes (2)",
+      "fighter2": "Jean Silva (10)",
+      "weightClass": "Featherweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Benoît Saint Denis (13)",
-      "fighter2": "Mauricio Ruffy (15)",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Rob Font (9)",
+      "fighter2": "David Martinez",
+      "weightClass": "Bantamweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Bolaji Oki",
-      "fighter2": "Mason Jones",
+      "fighter1": "Rafa Garcia",
+      "fighter2": "Jared Gordon",
       "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"

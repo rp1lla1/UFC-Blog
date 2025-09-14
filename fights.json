@@ -1,24 +1,24 @@
 {
-  "eventName": "NOCHE UFC",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Diego Lopes (2)",
-      "fighter2": "Jean Silva (10)",
+      "fighter1": "Carlos Ulberg (3)",
+      "fighter2": "Dominick Reyes (7)",
+      "weightClass": "Light Heavyweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Junior Tafa",
+      "fighter2": "Ibo Aslan",
+      "weightClass": "Light Heavyweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Jack Jenkins",
+      "fighter2": "Ramon Taveras",
       "weightClass": "Featherweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Rob Font (9)",
-      "fighter2": "David Martinez",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Rafa Garcia",
-      "fighter2": "Jared Gordon",
-      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

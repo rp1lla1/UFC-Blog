@@ -1,23 +1,23 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 320",
   "fights": [
     {
-      "fighter1": "Carlos Ulberg (3)",
-      "fighter2": "Dominick Reyes (7)",
-      "weightClass": "Light Heavyweight Bout",
+      "fighter1": "Magomed Ankalaev (1)",
+      "fighter2": "Alex Pereira",
+      "weightClass": "C Light Heavyweight Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Jack Jenkins",
-      "fighter2": "Ramon Taveras",
-      "weightClass": "Featherweight Bout",
+      "fighter1": "Merab Dvalishvili (4)",
+      "fighter2": "Cory Sandhagen",
+      "weightClass": "C Bantamweight Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Jimmy Crute",
-      "fighter2": "Ivan Erslan",
+      "fighter1": "Jiří Procházka (2)",
+      "fighter2": "Khalil Rountree Jr. (4)",
       "weightClass": "Light Heavyweight Bout",
       "odds1": "-",
       "odds2": "-"

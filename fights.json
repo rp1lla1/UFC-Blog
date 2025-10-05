@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC 320",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Magomed Ankalaev (1)",
-      "fighter2": "Alex Pereira",
-      "weightClass": "C Light Heavyweight Title Bout",
+      "fighter1": "Charles Oliveira (4)",
+      "fighter2": "Mateusz Gamrot (8)",
+      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Merab Dvalishvili (4)",
-      "fighter2": "Cory Sandhagen",
-      "weightClass": "C Bantamweight Title Bout",
+      "fighter1": "Deiveson Figueiredo (6)",
+      "fighter2": "Montel Jackson (15)",
+      "weightClass": "Bantamweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Jiří Procházka (2)",
-      "fighter2": "Khalil Rountree Jr. (4)",
-      "weightClass": "Light Heavyweight Bout",
+      "fighter1": "Vicente Luque",
+      "fighter2": "Joel Álvarez",
+      "weightClass": "Welterweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

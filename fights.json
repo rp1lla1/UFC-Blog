@@ -2,23 +2,23 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Charles Oliveira (4)",
-      "fighter2": "Mateusz Gamrot (8)",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Reinier De Ridder (4)",
+      "fighter2": "Brendan Allen (9)",
+      "weightClass": "Middleweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Deiveson Figueiredo (6)",
-      "fighter2": "Montel Jackson (15)",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Vicente Luque",
-      "fighter2": "Joel Álvarez",
+      "fighter1": "Kevin Holland (15)",
+      "fighter2": "Mike Malott",
       "weightClass": "Welterweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Marlon Vera (7)",
+      "fighter2": "Aiemann Zahabi (9)",
+      "weightClass": "Bantamweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

@@ -1,23 +1,23 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 321",
   "fights": [
     {
-      "fighter1": "Reinier De Ridder (4)",
-      "fighter2": "Brendan Allen (9)",
-      "weightClass": "Middleweight Bout",
+      "fighter1": "Tom Aspinall (1)",
+      "fighter2": "Ciryl Gane",
+      "weightClass": "C Heavyweight Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Kevin Holland (15)",
-      "fighter2": "Mike Malott",
-      "weightClass": "Welterweight Bout",
+      "fighter1": "Virna Jandiroba (1)",
+      "fighter2": "Mackenzie Dern (5)",
+      "weightClass": "Women's Strawweight Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Marlon Vera (7)",
-      "fighter2": "Aiemann Zahabi (9)",
+      "fighter1": "Umar Nurmagomedov (2)",
+      "fighter2": "Mario Bautista (8)",
       "weightClass": "Bantamweight Bout",
       "odds1": "-",
       "odds2": "-"

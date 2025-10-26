@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC 321",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Tom Aspinall (1)",
-      "fighter2": "Ciryl Gane",
-      "weightClass": "C Heavyweight Title Bout",
+      "fighter1": "Steve Garcia (12)",
+      "fighter2": "David Onama (13)",
+      "weightClass": "Featherweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Virna Jandiroba (1)",
-      "fighter2": "Mackenzie Dern (5)",
-      "weightClass": "Women's Strawweight Title Bout",
+      "fighter1": "Waldo Cortes Acosta (6)",
+      "fighter2": "Ante Delija (9)",
+      "weightClass": "Heavyweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Umar Nurmagomedov (2)",
-      "fighter2": "Mario Bautista (8)",
-      "weightClass": "Bantamweight Bout",
+      "fighter1": "Jeremiah Wells",
+      "fighter2": "Themba Gorimbo",
+      "weightClass": "Welterweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

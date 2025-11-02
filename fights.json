@@ -2,22 +2,22 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Steve Garcia (12)",
-      "fighter2": "David Onama (13)",
-      "weightClass": "Featherweight Bout",
+      "fighter1": "Gabriel Bonfim (14)",
+      "fighter2": "Randy Brown",
+      "weightClass": "Welterweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Waldo Cortes Acosta (6)",
-      "fighter2": "Ante Delija (9)",
-      "weightClass": "Heavyweight Bout",
+      "fighter1": "Matt Schnell",
+      "fighter2": "Joseph Morales",
+      "weightClass": "Flyweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Jeremiah Wells",
-      "fighter2": "Themba Gorimbo",
+      "fighter1": "Muslim Salikhov",
+      "fighter2": "Uroš Medić",
       "weightClass": "Welterweight Bout",
       "odds1": "-",
       "odds2": "-"

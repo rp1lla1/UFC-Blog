@@ -1,23 +1,23 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "VECHAIN UFC 322",
   "fights": [
     {
-      "fighter1": "Gabriel Bonfim (14)",
-      "fighter2": "Randy Brown",
-      "weightClass": "Welterweight Bout",
+      "fighter1": "Jack Della Maddalena",
+      "fighter2": "Islam Makhachev",
+      "weightClass": "C Welterweight Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Matt Schnell",
-      "fighter2": "Joseph Morales",
-      "weightClass": "Flyweight Bout",
+      "fighter1": "Valentina Shevchenko",
+      "fighter2": "Zhang Weili",
+      "weightClass": "C Women's Flyweight Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Muslim Salikhov",
-      "fighter2": "Uroš Medić",
+      "fighter1": "Sean Brady (2)",
+      "fighter2": "Michael Morales (8)",
       "weightClass": "Welterweight Bout",
       "odds1": "-",
       "odds2": "-"

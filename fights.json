@@ -1,24 +1,24 @@
 {
-  "eventName": "VECHAIN UFC 322",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Jack Della Maddalena",
-      "fighter2": "Islam Makhachev",
-      "weightClass": "C Welterweight Title Bout",
+      "fighter1": "Arman Tsarukyan (2)",
+      "fighter2": "Dan Hooker (7)",
+      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Valentina Shevchenko",
-      "fighter2": "Zhang Weili",
-      "weightClass": "C Women's Flyweight Title Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Sean Brady (2)",
-      "fighter2": "Michael Morales (8)",
+      "fighter1": "Belal Muhammad (1)",
+      "fighter2": "Ian Machado Garry (6)",
       "weightClass": "Welterweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Volkan Oezdemir (9)",
+      "fighter2": "Alonzo Menifield (14)",
+      "weightClass": "Light Heavyweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

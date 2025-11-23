@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 323",
   "fights": [
     {
-      "fighter1": "Arman Tsarukyan (2)",
-      "fighter2": "Dan Hooker (7)",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Merab Dvalishvili (3)",
+      "fighter2": "Petr Yan",
+      "weightClass": "C Bantamgewicht Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Belal Muhammad (1)",
-      "fighter2": "Ian Machado Garry (6)",
-      "weightClass": "Welterweight Bout",
+      "fighter1": "Alexandre Pantoja (1)",
+      "fighter2": "Joshua Van",
+      "weightClass": "C Fliegengewicht Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Volkan Oezdemir (9)",
-      "fighter2": "Alonzo Menifield (14)",
-      "weightClass": "Light Heavyweight Bout",
+      "fighter1": "Brandon Moreno (2)",
+      "fighter2": "Tatsuro Taira (5)",
+      "weightClass": "Fliegengewicht Bout",
       "odds1": "-",
       "odds2": "-"
     }

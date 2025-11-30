@@ -4,23 +4,23 @@
     {
       "fighter1": "Merab Dvalishvili (3)",
       "fighter2": "Petr Yan",
-      "weightClass": "C Bantamgewicht Title Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "weightClass": "C Bantamweight Title Bout",
+      "odds1": "-485",
+      "odds2": "+370"
     },
     {
       "fighter1": "Alexandre Pantoja (1)",
       "fighter2": "Joshua Van",
-      "weightClass": "C Fliegengewicht Title Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "weightClass": "C Flyweight Title Bout",
+      "odds1": "-238",
+      "odds2": "+195"
     },
     {
       "fighter1": "Brandon Moreno (2)",
       "fighter2": "Tatsuro Taira (5)",
-      "weightClass": "Fliegengewicht Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "weightClass": "Flyweight Bout",
+      "odds1": "-102",
+      "odds2": "-118"
     }
   ]
 }

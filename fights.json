@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC 323",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Merab Dvalishvili (3)",
-      "fighter2": "Petr Yan",
-      "weightClass": "C Bantamweight Title Bout",
-      "odds1": "-485",
-      "odds2": "+370"
-    },
-    {
-      "fighter1": "Alexandre Pantoja (1)",
-      "fighter2": "Joshua Van",
-      "weightClass": "C Flyweight Title Bout",
-      "odds1": "-238",
-      "odds2": "+195"
-    },
-    {
-      "fighter1": "Brandon Moreno (2)",
-      "fighter2": "Tatsuro Taira (5)",
+      "fighter1": "Brandon Royval (3)",
+      "fighter2": "Manel Kape (6)",
       "weightClass": "Flyweight Bout",
-      "odds1": "-102",
-      "odds2": "-118"
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Giga Chikadze (15)",
+      "fighter2": "Kevin Vallejos",
+      "weightClass": "Featherweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Cesar Almeida",
+      "fighter2": "Cezary Oleksiejczuk",
+      "weightClass": "Middleweight Bout",
+      "odds1": "-",
+      "odds2": "-"
     }
   ]
 }

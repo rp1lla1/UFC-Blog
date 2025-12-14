@@ -1,26 +1,4 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
-  "fights": [
-    {
-      "fighter1": "Brandon Royval (3)",
-      "fighter2": "Manel Kape (6)",
-      "weightClass": "Flyweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Giga Chikadze (15)",
-      "fighter2": "Kevin Vallejos",
-      "weightClass": "Featherweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Cesar Almeida",
-      "fighter2": "Cezary Oleksiejczuk",
-      "weightClass": "Middleweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    }
-  ]
+  "eventName": "UFC 324",
+  "fights": []
 }

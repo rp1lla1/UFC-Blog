@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC 324",
+  "eventName": "UFC 325",
   "fights": [
     {
-      "fighter1": "Justin Gaethje (4)",
-      "fighter2": "Paddy Pimblett (5)",
-      "weightClass": "Lightweight Interim Title Bout",
+      "fighter1": "Alexander Volkanovski (2)",
+      "fighter2": "Diego Lopes",
+      "weightClass": "C Featherweight Title Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Sean O'malley (3)",
-      "fighter2": "Song Yadong (5)",
-      "weightClass": "Bantamweight Bout",
+      "fighter1": "Dan Hooker (6)",
+      "fighter2": "Benoît Saint Denis (8)",
+      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Waldo Cortes Acosta (5)",
-      "fighter2": "Derrick Lewis (8)",
-      "weightClass": "Heavyweight Bout",
+      "fighter1": "Rafael Fiziev (9)",
+      "fighter2": "Mauricio Ruffy (14)",
+      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

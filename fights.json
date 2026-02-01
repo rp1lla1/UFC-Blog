@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC 325",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Alexander Volkanovski (2)",
-      "fighter2": "Diego Lopes",
-      "weightClass": "C Featherweight Title Bout",
+      "fighter1": "Mario Bautista (9)",
+      "fighter2": "Vinicius Oliveira (11)",
+      "weightClass": "Bantamweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Dan Hooker (6)",
-      "fighter2": "Benoît Saint Denis (8)",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Amir Albazi (6)",
+      "fighter2": "Kyoji Horiguchi (8)",
+      "weightClass": "Flyweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Rafael Fiziev (9)",
-      "fighter2": "Mauricio Ruffy (14)",
-      "weightClass": "Lightweight Bout",
+      "fighter1": "Jailton Almeida (6)",
+      "fighter2": "Rizvan Kuniev",
+      "weightClass": "Heavyweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

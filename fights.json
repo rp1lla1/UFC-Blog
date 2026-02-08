@@ -2,22 +2,22 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Mario Bautista (9)",
-      "fighter2": "Vinicius Oliveira (11)",
-      "weightClass": "Bantamweight Bout",
+      "fighter1": "Sean Strickland (3)",
+      "fighter2": "Anthony Hernandez (4)",
+      "weightClass": "Middleweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Amir Albazi (6)",
-      "fighter2": "Kyoji Horiguchi (8)",
-      "weightClass": "Flyweight Bout",
+      "fighter1": "Dan Ige (14)",
+      "fighter2": "Melquizael Costa",
+      "weightClass": "Featherweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Jailton Almeida (6)",
-      "fighter2": "Rizvan Kuniev",
+      "fighter1": "Serghei Spivac (7)",
+      "fighter2": "Ante Delija (10)",
       "weightClass": "Heavyweight Bout",
       "odds1": "-",
       "odds2": "-"

@@ -2,23 +2,23 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Sean Strickland (3)",
-      "fighter2": "Anthony Hernandez (4)",
-      "weightClass": "Middleweight Bout",
+      "fighter1": "Brandon Moreno (6)",
+      "fighter2": "Lone’er Kavanagh (15)",
+      "weightClass": "Flyweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Geoff Neal (12)",
-      "fighter2": "Uroš Medić",
-      "weightClass": "Welterweight Bout",
+      "fighter1": "Marlon Vera (9)",
+      "fighter2": "David Martinez (10)",
+      "weightClass": "Bantamweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Dan Ige (14)",
-      "fighter2": "Melquizael Costa",
-      "weightClass": "Featherweight Bout",
+      "fighter1": "Daniel Zellhuber",
+      "fighter2": "King Green",
+      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 326",
   "fights": [
     {
-      "fighter1": "Brandon Moreno (6)",
-      "fighter2": "Lone’er Kavanagh (15)",
-      "weightClass": "Flyweight Bout",
+      "fighter1": "Max Holloway (3)",
+      "fighter2": "Charles Oliveira",
+      "weightClass": "C Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Marlon Vera (9)",
-      "fighter2": "David Martinez (10)",
+      "fighter1": "Caio Borralho (7)",
+      "fighter2": "Reinier De Ridder (8)",
+      "weightClass": "Middleweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Rob Font (13)",
+      "fighter2": "Raul Rosas Jr.",
       "weightClass": "Bantamweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Daniel Zellhuber",
-      "fighter2": "King Green",
-      "weightClass": "Lightweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

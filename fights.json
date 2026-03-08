@@ -1,24 +1,24 @@
 {
-  "eventName": "UFC 326",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Max Holloway (3)",
-      "fighter2": "Charles Oliveira",
-      "weightClass": "C Lightweight Bout",
+      "fighter1": "Josh Emmett (11)",
+      "fighter2": "Kevin Vallejos (14)",
+      "weightClass": "Featherweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Caio Borralho (7)",
-      "fighter2": "Reinier De Ridder (8)",
-      "weightClass": "Middleweight Bout",
+      "fighter1": "Amanda Lemos (5)",
+      "fighter2": "Gillian Robertson (8)",
+      "weightClass": "Women's Strawweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Rob Font (13)",
-      "fighter2": "Raul Rosas Jr.",
-      "weightClass": "Bantamweight Bout",
+      "fighter1": "Ion Cutelaba",
+      "fighter2": "Oumar Sy",
+      "weightClass": "Light Heavyweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

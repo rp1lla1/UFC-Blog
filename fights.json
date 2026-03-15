@@ -2,23 +2,23 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Josh Emmett (11)",
-      "fighter2": "Kevin Vallejos (14)",
+      "fighter1": "Movsar Evloev (1)",
+      "fighter2": "Lerone Murphy (3)",
       "weightClass": "Featherweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Amanda Lemos (5)",
-      "fighter2": "Gillian Robertson (8)",
-      "weightClass": "Women's Strawweight Bout",
+      "fighter1": "Luke Riley",
+      "fighter2": "Michael Aswell Jr.",
+      "weightClass": "Featherweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Ion Cutelaba",
-      "fighter2": "Oumar Sy",
-      "weightClass": "Light Heavyweight Bout",
+      "fighter1": "Michael Page (13)",
+      "fighter2": "Sam Patterson",
+      "weightClass": "Welterweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

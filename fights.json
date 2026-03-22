@@ -2,22 +2,22 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Movsar Evloev (1)",
-      "fighter2": "Lerone Murphy (3)",
-      "weightClass": "Featherweight Bout",
+      "fighter1": "Israel Adesanya (4)",
+      "fighter2": "Joe Pyfer (14)",
+      "weightClass": "Middleweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Luke Riley",
-      "fighter2": "Michael Aswell Jr.",
-      "weightClass": "Featherweight Bout",
+      "fighter1": "Alexa Grasso (3)",
+      "fighter2": "Maycee Barber (5)",
+      "weightClass": "Women's Flyweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Michael Page (13)",
-      "fighter2": "Sam Patterson",
+      "fighter1": "Michael Chiesa",
+      "fighter2": "Carlston Harris",
       "weightClass": "Welterweight Bout",
       "odds1": "-",
       "odds2": "-"

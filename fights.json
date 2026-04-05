@@ -1,26 +1,4 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
-  "fights": [
-    {
-      "fighter1": "Israel Adesanya (4)",
-      "fighter2": "Joe Pyfer (14)",
-      "weightClass": "Middleweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Alexa Grasso (3)",
-      "fighter2": "Maycee Barber (5)",
-      "weightClass": "Women's Flyweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Michael Chiesa",
-      "fighter2": "Niko Price",
-      "weightClass": "Welterweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    }
-  ]
+  "eventName": "UFC 327",
+  "fights": []
 }

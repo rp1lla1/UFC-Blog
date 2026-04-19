@@ -2,23 +2,23 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Gilbert Burns (11)",
-      "fighter2": "Mike Malott",
-      "weightClass": "Welterweight Bout",
+      "fighter1": "Aljamain Sterling (5)",
+      "fighter2": "Youssef Zalal (7)",
+      "weightClass": "Featherweight Bout",
       "odds1": "-",
       "odds2": "-"
     },
     {
-      "fighter1": "Kyler Phillips",
-      "fighter2": "Charles Jourdain",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "-",
-      "odds2": "-"
-    },
-    {
-      "fighter1": "Mandel Nallo",
-      "fighter2": "Jai Herbert",
+      "fighter1": "Rafa Garcia",
+      "fighter2": "Alexander Hernandez",
       "weightClass": "Lightweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Davey Grant",
+      "fighter2": "Adrián Luna Martinetti",
+      "weightClass": "Bantamweight Bout",
       "odds1": "-",
       "odds2": "-"
     }

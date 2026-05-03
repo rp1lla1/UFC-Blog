@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 328",
   "fights": [
     {
-      "fighter1": "Jack Della Maddalena (1)",
-      "fighter2": "Carlos Prates (5)",
-      "weightClass": "Welterweight Bout",
-      "odds1": "+105",
-      "odds2": "-125"
+      "fighter1": "Khamzat Chimaev (3)",
+      "fighter2": "Sean Strickland",
+      "weightClass": "C Middleweight Title Bout",
+      "odds1": "-550",
+      "odds2": "+400"
     },
     {
-      "fighter1": "Beneil Dariush (12)",
-      "fighter2": "Quillan Salkilld",
-      "weightClass": "Lightweight Bout",
-      "odds1": "+350",
-      "odds2": "-450"
+      "fighter1": "Joshua Van (3)",
+      "fighter2": "Tatsuro Taira",
+      "weightClass": "C Flyweight Title Bout",
+      "odds1": "+155",
+      "odds2": "-185"
     },
     {
-      "fighter1": "Tim Elliott (11)",
-      "fighter2": "Steve Erceg (12)",
-      "weightClass": "Flyweight Bout",
-      "odds1": "+320",
-      "odds2": "-400"
+      "fighter1": "Alexander Volkov (2)",
+      "fighter2": "Waldo Cortes Acosta (4)",
+      "weightClass": "Heavyweight Bout",
+      "odds1": "-180",
+      "odds2": "+150"
     }
   ]
 }

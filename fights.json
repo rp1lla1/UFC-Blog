@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC 328",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Khamzat Chimaev (3)",
-      "fighter2": "Sean Strickland",
-      "weightClass": "C Middleweight Title Bout",
-      "odds1": "-550",
-      "odds2": "+400"
+      "fighter1": "Arnold Allen (7)",
+      "fighter2": "Melquizael Costa (12)",
+      "weightClass": "Featherweight Bout",
+      "odds1": "-190",
+      "odds2": "+160"
     },
     {
-      "fighter1": "Joshua Van (3)",
-      "fighter2": "Tatsuro Taira",
-      "weightClass": "C Flyweight Title Bout",
-      "odds1": "+155",
-      "odds2": "-185"
+      "fighter1": "Dooho Choi",
+      "fighter2": "Daniel Santos",
+      "weightClass": "Featherweight Bout",
+      "odds1": "+105",
+      "odds2": "-125"
     },
     {
-      "fighter1": "Alexander Volkov (2)",
-      "fighter2": "Waldo Cortes Acosta (4)",
-      "weightClass": "Heavyweight Bout",
-      "odds1": "-180",
-      "odds2": "+150"
+      "fighter1": "Malcolm Wellmaker",
+      "fighter2": "Juan Diaz",
+      "weightClass": "Bantamweight Bout",
+      "odds1": "-225",
+      "odds2": "+185"
     }
   ]
 }

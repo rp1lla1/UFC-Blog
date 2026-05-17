@@ -2,25 +2,25 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Arnold Allen (7)",
-      "fighter2": "Melquizael Costa (12)",
-      "weightClass": "Featherweight Bout",
-      "odds1": "-190",
-      "odds2": "+160"
-    },
-    {
-      "fighter1": "Dooho Choi",
-      "fighter2": "Daniel Santos",
-      "weightClass": "Featherweight Bout",
-      "odds1": "+105",
-      "odds2": "-125"
-    },
-    {
-      "fighter1": "Malcolm Wellmaker",
-      "fighter2": "Juan Diaz",
+      "fighter1": "Song Yadong (5)",
+      "fighter2": "Deiveson Figueiredo (7)",
       "weightClass": "Bantamweight Bout",
-      "odds1": "-225",
-      "odds2": "+185"
+      "odds1": "-400",
+      "odds2": "+300"
+    },
+    {
+      "fighter1": "Zhang Mingyang (15)",
+      "fighter2": "Alonzo Menifield",
+      "weightClass": "Light Heavyweight Bout",
+      "odds1": "-220",
+      "odds2": "+180"
+    },
+    {
+      "fighter1": "Sergei Pavlovich (3)",
+      "fighter2": "Tallison Teixeira (15)",
+      "weightClass": "Heavyweight Bout",
+      "odds1": "-400",
+      "odds2": "+300"
     }
   ]
 }

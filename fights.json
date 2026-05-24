@@ -5,22 +5,22 @@
       "fighter1": "Song Yadong (5)",
       "fighter2": "Deiveson Figueiredo (7)",
       "weightClass": "Bantamweight Bout",
-      "odds1": "-400",
-      "odds2": "+300"
+      "odds1": "-500",
+      "odds2": "+375"
     },
     {
       "fighter1": "Zhang Mingyang (15)",
       "fighter2": "Alonzo Menifield",
       "weightClass": "Light Heavyweight Bout",
-      "odds1": "-220",
-      "odds2": "+180"
+      "odds1": "-230",
+      "odds2": "+190"
     },
     {
       "fighter1": "Sergei Pavlovich (3)",
       "fighter2": "Tallison Teixeira (15)",
       "weightClass": "Heavyweight Bout",
-      "odds1": "-400",
-      "odds2": "+300"
+      "odds1": "-500",
+      "odds2": "+350"
     }
   ]
 }

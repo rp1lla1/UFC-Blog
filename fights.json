@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC FREEDOM 250",
   "fights": [
     {
-      "fighter1": "Belal Muhammad (5)",
-      "fighter2": "Gabriel Bonfim (11)",
-      "weightClass": "Welterweight Bout",
-      "odds1": "-140",
-      "odds2": "+115"
+      "fighter1": "Ilia Topuria",
+      "fighter2": "Justin Gaethje",
+      "weightClass": "C Lightweight Title Bout IC",
+      "odds1": "-",
+      "odds2": "-"
     },
     {
-      "fighter1": "Brendan Allen (4)",
-      "fighter2": "Edmen Shahbazyan",
-      "weightClass": "Middleweight Bout",
-      "odds1": "-240",
-      "odds2": "+195"
+      "fighter1": "Alex Pereira (1)",
+      "fighter2": "Ciryl Gane",
+      "weightClass": "Heavyweight Interim Title Bout",
+      "odds1": "-",
+      "odds2": "-"
     },
     {
-      "fighter1": "Farès Ziam (14)",
-      "fighter2": "Tom Nolan",
-      "weightClass": "Lightweight Bout",
-      "odds1": "-320",
-      "odds2": "+255"
+      "fighter1": "Sean O'malley (3)",
+      "fighter2": "Aiemann Zahabi (6)",
+      "weightClass": "Bantamweight Bout",
+      "odds1": "-",
+      "odds2": "-"
     }
   ]
 }

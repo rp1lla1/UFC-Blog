@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC FREEDOM 250",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Ilia Topuria",
-      "fighter2": "Justin Gaethje",
-      "weightClass": "C Lightweight Title Bout IC",
-      "odds1": "-",
-      "odds2": "-"
+      "fighter1": "Rafael Fiziev (11)",
+      "fighter2": "Manuel Torres (15)",
+      "weightClass": "Lightweight Bout",
+      "odds1": "-115",
+      "odds2": "-105"
     },
     {
-      "fighter1": "Alex Pereira (1)",
-      "fighter2": "Ciryl Gane",
-      "weightClass": "Heavyweight Interim Title Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "fighter1": "Shara Magomedov",
+      "fighter2": "Michel Pereira",
+      "weightClass": "Middleweight Bout",
+      "odds1": "-325",
+      "odds2": "+255"
     },
     {
-      "fighter1": "Sean O'malley (3)",
-      "fighter2": "Aiemann Zahabi (6)",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "fighter1": "Nazim Sadykhov",
+      "fighter2": "Matheus Camilo",
+      "weightClass": "Lightweight Bout",
+      "odds1": "-240",
+      "odds2": "+195"
     }
   ]
 }

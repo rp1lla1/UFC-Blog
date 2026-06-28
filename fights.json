@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 329",
   "fights": [
     {
-      "fighter1": "Rafael Fiziev (11)",
-      "fighter2": "Manuel Torres (15)",
-      "weightClass": "Lightweight Bout",
-      "odds1": "-115",
-      "odds2": "-105"
+      "fighter1": "Conor Mcgregor (4)",
+      "fighter2": "Max Holloway",
+      "weightClass": "Welterweight Bout",
+      "odds1": "+195",
+      "odds2": "-238"
     },
     {
-      "fighter1": "Shara Magomedov",
-      "fighter2": "Michel Pereira",
-      "weightClass": "Middleweight Bout",
-      "odds1": "-325",
-      "odds2": "+255"
+      "fighter1": "Benoît Saint Denis (5)",
+      "fighter2": "Paddy Pimblett (6)",
+      "weightClass": "Lightweight Bout",
+      "odds1": "-155",
+      "odds2": "+130"
     },
     {
-      "fighter1": "Nazim Sadykhov",
-      "fighter2": "Matheus Camilo",
-      "weightClass": "Lightweight Bout",
-      "odds1": "-240",
-      "odds2": "+195"
+      "fighter1": "Cory Sandhagen (4)",
+      "fighter2": "Mario Bautista (7)",
+      "weightClass": "Bantamweight Bout",
+      "odds1": "-150",
+      "odds2": "+125"
     }
   ]
 }

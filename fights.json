@@ -5,22 +5,22 @@
       "fighter1": "Conor Mcgregor (4)",
       "fighter2": "Max Holloway",
       "weightClass": "Welterweight Bout",
-      "odds1": "+195",
-      "odds2": "-238"
+      "odds1": "+180",
+      "odds2": "-220"
     },
     {
       "fighter1": "Benoît Saint Denis (5)",
       "fighter2": "Paddy Pimblett (6)",
       "weightClass": "Lightweight Bout",
-      "odds1": "-155",
-      "odds2": "+130"
+      "odds1": "-145",
+      "odds2": "+120"
     },
     {
       "fighter1": "Cory Sandhagen (4)",
       "fighter2": "Mario Bautista (7)",
       "weightClass": "Bantamweight Bout",
-      "odds1": "-150",
-      "odds2": "+125"
+      "odds1": "-145",
+      "odds2": "+120"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC 329",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Conor Mcgregor (4)",
-      "fighter2": "Max Holloway",
-      "weightClass": "Welterweight Bout",
-      "odds1": "+180",
-      "odds2": "-220"
+      "fighter1": "Dricus Du Plessis (2)",
+      "fighter2": "Kamaru Usman (9)",
+      "weightClass": "Middleweight Bout",
+      "odds1": "-260",
+      "odds2": "+210"
     },
     {
-      "fighter1": "Benoît Saint Denis (5)",
-      "fighter2": "Paddy Pimblett (6)",
+      "fighter1": "Jared Cannonier (11)",
+      "fighter2": "Christian Leroy Duncan (13)",
+      "weightClass": "Middleweight Bout",
+      "odds1": "+235",
+      "odds2": "-290"
+    },
+    {
+      "fighter1": "Chase Hooper",
+      "fighter2": "Mitch Ramirez",
       "weightClass": "Lightweight Bout",
-      "odds1": "-145",
-      "odds2": "+120"
-    },
-    {
-      "fighter1": "Cory Sandhagen (4)",
-      "fighter2": "Mario Bautista (7)",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "-145",
-      "odds2": "+120"
+      "odds1": "-305",
+      "odds2": "+245"
     }
   ]
 }

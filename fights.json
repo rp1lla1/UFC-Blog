@@ -2,25 +2,25 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Dricus Du Plessis (2)",
-      "fighter2": "Kamaru Usman (9)",
-      "weightClass": "Middleweight Bout",
-      "odds1": "-260",
-      "odds2": "+210"
+      "fighter1": "Magomed Ankalaev (1)",
+      "fighter2": "Bogdan Guskov (9)",
+      "weightClass": "Light Heavyweight Bout",
+      "odds1": "-550",
+      "odds2": "+400"
     },
     {
-      "fighter1": "Jared Cannonier (11)",
-      "fighter2": "Christian Leroy Duncan (13)",
-      "weightClass": "Middleweight Bout",
-      "odds1": "+235",
-      "odds2": "-290"
+      "fighter1": "Steve Erceg (10)",
+      "fighter2": "Ramazan Temirov",
+      "weightClass": "Flyweight Bout",
+      "odds1": "-125",
+      "odds2": "+105"
     },
     {
-      "fighter1": "Chase Hooper",
-      "fighter2": "Mitch Ramirez",
-      "weightClass": "Lightweight Bout",
-      "odds1": "-305",
-      "odds2": "+245"
+      "fighter1": "Islam Dulatov",
+      "fighter2": "Wellington Turman",
+      "weightClass": "Welterweight Bout",
+      "odds1": "-800",
+      "odds2": "+550"
     }
   ]
 }

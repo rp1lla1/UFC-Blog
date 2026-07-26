@@ -2,25 +2,25 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Magomed Ankalaev (1)",
-      "fighter2": "Bogdan Guskov (9)",
-      "weightClass": "Light Heavyweight Bout",
-      "odds1": "-550",
-      "odds2": "+400"
-    },
-    {
-      "fighter1": "Steve Erceg (10)",
-      "fighter2": "Ramazan Temirov",
-      "weightClass": "Flyweight Bout",
-      "odds1": "-125",
-      "odds2": "+105"
-    },
-    {
-      "fighter1": "Islam Dulatov",
-      "fighter2": "Wellington Turman",
+      "fighter1": "Uroš Medić (14)",
+      "fighter2": "Daniel Rodriguez (15)",
       "weightClass": "Welterweight Bout",
-      "odds1": "-800",
-      "odds2": "+550"
+      "odds1": "-330",
+      "odds2": "+260"
+    },
+    {
+      "fighter1": "Jan Błachowicz (4)",
+      "fighter2": "Navajo Stirling (15)",
+      "weightClass": "Light Heavyweight Bout",
+      "odds1": "+240",
+      "odds2": "-300"
+    },
+    {
+      "fighter1": "Aleksandar Rakić (12)",
+      "fighter2": "Marcin Tybura",
+      "weightClass": "Heavyweight Bout",
+      "odds1": "-310",
+      "odds2": "+250"
     }
   ]
 }

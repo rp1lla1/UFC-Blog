@@ -1,26 +1,4 @@
 {
   "eventName": "UFC FIGHT NIGHT",
-  "fights": [
-    {
-      "fighter1": "Uroš Medić (14)",
-      "fighter2": "Daniel Rodriguez (15)",
-      "weightClass": "Welterweight Bout",
-      "odds1": "-330",
-      "odds2": "+260"
-    },
-    {
-      "fighter1": "Jan Błachowicz (4)",
-      "fighter2": "Navajo Stirling (15)",
-      "weightClass": "Light Heavyweight Bout",
-      "odds1": "+240",
-      "odds2": "-300"
-    },
-    {
-      "fighter1": "Aleksandar Rakić (12)",
-      "fighter2": "Marcin Tybura",
-      "weightClass": "Heavyweight Bout",
-      "odds1": "-310",
-      "odds2": "+250"
-    }
-  ]
+  "fights": []
 }

@@ -1,4 +1,26 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
-  "fights": []
+  "eventName": "UFC 330",
+  "fights": [
+    {
+      "fighter1": "Islam Makhachev (1)",
+      "fighter2": "Ian Machado Garry",
+      "weightClass": "C Welterweight Title Bout",
+      "odds1": "-375",
+      "odds2": "+300"
+    },
+    {
+      "fighter1": "Mackenzie Dern (5)",
+      "fighter2": "Gillian Robertson",
+      "weightClass": "C Women's Strawweight Title Bout",
+      "odds1": "-260",
+      "odds2": "+210"
+    },
+    {
+      "fighter1": "Mansur Abdul-malik",
+      "fighter2": "Dustin Stoltzfus",
+      "weightClass": "Middleweight Bout",
+      "odds1": "-550",
+      "odds2": "+400"
+    }
+  ]
 }

@@ -1,26 +1,4 @@
 {
   "eventName": "UFC FIGHT NIGHT",
-  "fights": [
-    {
-      "fighter1": "Umar Nurmagomedov (3)",
-      "fighter2": "Song Yadong (6)",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "-500",
-      "odds2": "+375"
-    },
-    {
-      "fighter1": "Yan Xiaonan (4)",
-      "fighter2": "Denise Gomes (14)",
-      "weightClass": "Women's Strawweight Bout",
-      "odds1": "-160",
-      "odds2": "+135"
-    },
-    {
-      "fighter1": "Aoriqileng",
-      "fighter2": "Kai Asakura",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "+320",
-      "odds2": "-400"
-    }
-  ]
+  "fights": []
 }

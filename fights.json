@@ -1,26 +1,26 @@
 {
-  "eventName": "NOCHE UFC",
+  "eventName": "CRYPTO.COM UFC 331",
   "fights": [
     {
-      "fighter1": "Jean Silva (6)",
-      "fighter2": "Jose Miguel Delgado (6)",
-      "weightClass": "Featherweight Bout",
-      "odds1": "-425",
-      "odds2": "+325"
+      "fighter1": "Joshua Van (1)",
+      "fighter2": "Alexandre Pantoja",
+      "weightClass": "C Flyweight Title Bout",
+      "odds1": "-125",
+      "odds2": "+100"
     },
     {
-      "fighter1": "Brandon Moreno (8)",
-      "fighter2": "Joseph Morales",
-      "weightClass": "Flyweight Bout",
-      "odds1": "+115",
-      "odds2": "-135"
+      "fighter1": "Arman Tsarukyan (2)",
+      "fighter2": "Mauricio Ruffy (7)",
+      "weightClass": "Lightweight Bout",
+      "odds1": "-380",
+      "odds2": "+300"
     },
     {
-      "fighter1": "Tommy Mcmillen",
-      "fighter2": "Marwan Rahiki",
+      "fighter1": "Patricio Pitbull (15)",
+      "fighter2": "Dooho Choi",
       "weightClass": "Featherweight Bout",
-      "odds1": "-165",
-      "odds2": "+140"
+      "odds1": "+200",
+      "odds2": "-250"
     }
   ]
 }

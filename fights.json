@@ -1,26 +1,26 @@
 {
-  "eventName": "CRYPTO.COM UFC 331",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Joshua Van (1)",
-      "fighter2": "Alexandre Pantoja",
-      "weightClass": "C Flyweight Title Bout",
-      "odds1": "-125",
-      "odds2": "+100"
+      "fighter1": "Raul Rosas Jr. (12)",
+      "fighter2": "Raoni Barcelos (13)",
+      "weightClass": "Bantamweight Bout",
+      "odds1": "-200",
+      "odds2": "+165"
     },
     {
-      "fighter1": "Arman Tsarukyan (2)",
-      "fighter2": "Mauricio Ruffy (7)",
-      "weightClass": "Lightweight Bout",
-      "odds1": "-380",
-      "odds2": "+300"
+      "fighter1": "Rodolfo Vieira",
+      "fighter2": "Robert Bryczek",
+      "weightClass": "Middleweight Bout",
+      "odds1": "-110",
+      "odds2": "-110"
     },
     {
-      "fighter1": "Patricio Pitbull (15)",
-      "fighter2": "Dooho Choi",
-      "weightClass": "Featherweight Bout",
-      "odds1": "+200",
-      "odds2": "-250"
+      "fighter1": "Brady Hiestand",
+      "fighter2": "Rinya Nakamura",
+      "weightClass": "Bantamweight Bout",
+      "odds1": "+250",
+      "odds2": "-315"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 332",
   "fights": [
     {
-      "fighter1": "Raul Rosas Jr. (12)",
-      "fighter2": "Raoni Barcelos (13)",
-      "weightClass": "Bantamweight Bout",
+      "fighter1": "Natalia Silva (1)",
+      "fighter2": "Wang Cong (8)",
+      "weightClass": "Women's Flyweight Title Bout",
       "odds1": "-200",
       "odds2": "+165"
     },
     {
-      "fighter1": "Rodolfo Vieira",
-      "fighter2": "Robert Bryczek",
-      "weightClass": "Middleweight Bout",
-      "odds1": "-110",
-      "odds2": "-110"
+      "fighter1": "Deiveson Figueiredo (9)",
+      "fighter2": "Payton Talbott (11)",
+      "weightClass": "Bantamweight Bout",
+      "odds1": "+475",
+      "odds2": "-650"
     },
     {
-      "fighter1": "Brady Hiestand",
-      "fighter2": "Rinya Nakamura",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "+250",
-      "odds2": "-315"
+      "fighter1": "King Green",
+      "fighter2": "Esteban Ribovics",
+      "weightClass": "Lightweight Bout",
+      "odds1": "+210",
+      "odds2": "-270"
     }
   ]
 }

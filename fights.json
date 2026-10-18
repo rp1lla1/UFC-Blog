@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 333",
   "fights": [
     {
-      "fighter1": "Joaquin Buckley (10)",
-      "fighter2": "Mike Malott (13)",
-      "weightClass": "Welterweight Bout",
-      "odds1": "+124",
-      "odds2": "-148"
+      "fighter1": "Alexander Volkanovski (1)",
+      "fighter2": "Movsar Evloev",
+      "weightClass": "C Featherweight Title Bout",
+      "odds1": "-115",
+      "odds2": "-105"
     },
     {
-      "fighter1": "Erin Blanchfield (4)",
-      "fighter2": "Jasmine Jasudavicius (6)",
-      "weightClass": "Women's Flyweight Bout",
-      "odds1": "-250",
-      "odds2": "+205"
+      "fighter1": "Petr Yan (1)",
+      "fighter2": "Merab Dvalishvili",
+      "weightClass": "C Bantamweight Title Bout",
+      "odds1": "-175",
+      "odds2": "+145"
     },
     {
-      "fighter1": "Kyle Nelson",
-      "fighter2": "Cristian Perez Gonzalez",
-      "weightClass": "Lightweight Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "fighter1": "Lone’er Kavanagh (6)",
+      "fighter2": "Ramazan Temirov (10)",
+      "weightClass": "Flyweight Bout",
+      "odds1": "-110",
+      "odds2": "-110"
     }
   ]
 }

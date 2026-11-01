@@ -1,4 +1,26 @@
 {
   "eventName": "UFC FIGHT NIGHT",
-  "fights": []
+  "fights": [
+    {
+      "fighter1": "Waldo Cortes Acosta (6)",
+      "fighter2": "Johnny Walker",
+      "weightClass": "Heavyweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Tatiana Suarez (2)",
+      "fighter2": "Virna Jandiroba (3)",
+      "weightClass": "Women's Strawweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    },
+    {
+      "fighter1": "Davey Grant",
+      "fighter2": "Elijah Smith",
+      "weightClass": "Bantamweight Bout",
+      "odds1": "-",
+      "odds2": "-"
+    }
+  ]
 }

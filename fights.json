@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC FIGHT NIGHT",
+  "eventName": "UFC 334",
   "fights": [
     {
-      "fighter1": "Waldo Cortes Acosta (6)",
-      "fighter2": "Johnny Walker",
-      "weightClass": "Heavyweight Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "fighter1": "Ciryl Gane (4)",
+      "fighter2": "Josh Hokit",
+      "weightClass": "C Heavyweight Title Bout",
+      "odds1": "-220",
+      "odds2": "+180"
     },
     {
-      "fighter1": "Tatiana Suarez (2)",
-      "fighter2": "Virna Jandiroba (3)",
-      "weightClass": "Women's Strawweight Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "fighter1": "Kayla Harrison",
+      "fighter2": "Amanda Nunes",
+      "weightClass": "C Women's Bantamweight Title Bout",
+      "odds1": "-190",
+      "odds2": "+160"
     },
     {
-      "fighter1": "Davey Grant",
-      "fighter2": "Elijah Smith",
-      "weightClass": "Bantamweight Bout",
-      "odds1": "-",
-      "odds2": "-"
+      "fighter1": "Caio Borralho (5)",
+      "fighter2": "Yousri Belgaroui",
+      "weightClass": "Middleweight Bout",
+      "odds1": "-165",
+      "odds2": "+135"
     }
   ]
 }

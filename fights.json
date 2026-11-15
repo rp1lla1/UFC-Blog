@@ -1,26 +1,26 @@
 {
-  "eventName": "UFC 334",
+  "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Ciryl Gane (4)",
-      "fighter2": "Josh Hokit",
-      "weightClass": "C Heavyweight Title Bout",
-      "odds1": "-220",
-      "odds2": "+180"
+      "fighter1": "Jiří Procházka (2)",
+      "fighter2": "Navajo Stirling (5)",
+      "weightClass": "Light Heavyweight Bout",
+      "odds1": "+125",
+      "odds2": "-150"
     },
     {
-      "fighter1": "Kayla Harrison",
-      "fighter2": "Amanda Nunes",
-      "weightClass": "C Women's Bantamweight Title Bout",
-      "odds1": "-190",
-      "odds2": "+160"
+      "fighter1": "Aljamain Sterling (4)",
+      "fighter2": "Kevin Vallejos (9)",
+      "weightClass": "Featherweight Bout",
+      "odds1": "+120",
+      "odds2": "-140"
     },
     {
-      "fighter1": "Caio Borralho (5)",
-      "fighter2": "Yousri Belgaroui",
-      "weightClass": "Middleweight Bout",
-      "odds1": "-165",
-      "odds2": "+135"
+      "fighter1": "Dan Hooker (14)",
+      "fighter2": "Brian Ortega",
+      "weightClass": "Lightweight Bout",
+      "odds1": "-155",
+      "odds2": "+130"
     }
   ]
 }

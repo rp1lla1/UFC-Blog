@@ -2,25 +2,25 @@
   "eventName": "UFC FIGHT NIGHT",
   "fights": [
     {
-      "fighter1": "Jiří Procházka (2)",
-      "fighter2": "Navajo Stirling (5)",
-      "weightClass": "Light Heavyweight Bout",
-      "odds1": "+125",
-      "odds2": "-150"
+      "fighter1": "Israel Adesanya (9)",
+      "fighter2": "Shara Magomedov (15)",
+      "weightClass": "Middleweight Bout",
+      "odds1": "-165",
+      "odds2": "+140"
     },
     {
-      "fighter1": "Aljamain Sterling (4)",
-      "fighter2": "Kevin Vallejos (9)",
-      "weightClass": "Featherweight Bout",
-      "odds1": "+120",
-      "odds2": "-140"
+      "fighter1": "Ian Machado Garry (1)",
+      "fighter2": "Yaroslav Amosov (11)",
+      "weightClass": "Welterweight Bout",
+      "odds1": "-190",
+      "odds2": "+160"
     },
     {
-      "fighter1": "Dan Hooker (14)",
-      "fighter2": "Brian Ortega",
-      "weightClass": "Lightweight Bout",
-      "odds1": "-155",
-      "odds2": "+130"
+      "fighter1": "Serghei Spivac (10)",
+      "fighter2": "Mario Pinto (15)",
+      "weightClass": "Heavyweight Bout",
+      "odds1": "-",
+      "odds2": "-"
     }
   ]
 }
